@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1501406031 source:c:\users\dell\desktop\new folder\cargame\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+
+1501778463 source:d:\secure\my shits\codes\graphics.h\cargame\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+
